@@ -10,7 +10,9 @@ MongoDB
 ###Getting Started with Code :
 
 Set Up MongoDB
+
 Start mongo: > mongo
+
 Set Up Node.js
 Clone code
 Run npm install
